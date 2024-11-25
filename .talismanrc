@@ -3,6 +3,10 @@ fileignoreconfig:
   checksum: 0d944cf0aa125bc3b22560b40666de77a0b00098e0f082d00e8e47df83d102aa
 - filename: azure_sp.json
   checksum: f1823bdc2b27bea97547ea989fa7f6225b7215e8bd7ec06f8a3ad4bc68869fad
+- filename: azure_sp2.json
+  checksum: 752ea3837bb66d3aad3924d8d5f444afd21b077650e440b5078a665848fdf421
 - filename: gh-token
   checksum: 94b75e9025b76c631d8202cd8b61d36842df9c54902134ef725caf62ecef0caa
+- filename: gh-token2
+  checksum: 90146a18792539869ed3dd7ef736fc66555cb5228693643bcfaa7e7be3d99024
 version: "1.0"
